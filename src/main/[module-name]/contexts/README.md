@@ -1,0 +1,3 @@
+-   This folder contains all module's contexts
+-   All contexts in this folder are in module scope
+-   All contexts in this folder can be shared to other module if module is a shared module

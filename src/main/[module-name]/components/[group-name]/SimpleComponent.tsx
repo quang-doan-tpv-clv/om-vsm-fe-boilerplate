@@ -1,0 +1,3 @@
+/**
+ * Declare simple component here
+ */

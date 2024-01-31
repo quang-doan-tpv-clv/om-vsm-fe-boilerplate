@@ -1,0 +1,3 @@
+-   This folder contains all module's services
+-   All services in this folder are in module scope
+-   All services in this folder can be shared to other module if module is a shared module

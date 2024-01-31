@@ -1,0 +1,3 @@
+-   This folder contains all module's stores
+-   All stores in this folder are in module scope
+-   All stores in this folder can be shared to other module if module is a shared module

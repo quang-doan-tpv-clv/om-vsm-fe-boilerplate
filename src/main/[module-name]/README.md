@@ -1,0 +1,2 @@
+-   This folder is a modular folder
+-   The name of this folder should be name of module
